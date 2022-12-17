@@ -40,3 +40,47 @@ http://systembishop.s3.us-central-1.wasabisys.com/-s-e-r-i-e-s-/1416/18/dub/18.m
 http://systembishop.s3.us-central-1.wasabisys.com/-s-e-r-i-e-s-/1416/18/dub/19.mp4
 #EXTINF:-1 group-title="GREYS ANATOMY" tvg-logo="",TP 18 EP 20
 http://systembishop.s3.us-central-1.wasabisys.com/-s-e-r-i-e-s-/1416/18/dub/20.mp4
+
+
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 1
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x1.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 2
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x2.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 3
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x3.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 4
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x4.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 5
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x5.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 6
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x6.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 7
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x7.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 8
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x8.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 9
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x9.mp4
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 10
+https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x10.mp4
+
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
