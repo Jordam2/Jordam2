@@ -64,7 +64,31 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x9.mp4
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 10
 https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.1x10.mp4
 
+
+
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 1
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x1.mp4
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 2
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x2.mp4
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 3
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x3.mp4
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 4
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x4.mp4
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 5
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x5.mp4
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 6
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x6.mp4
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 7
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x7.mp4
+#EXTINF:-1 group-title="ALICE IN BORDERLAND" tvg-logo="",TP 1 EP 8
+https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x8.mp4
+
+
+#EXTINF:-1 group-title="" tvg-logo="",TP 
+
+
 FILMES
+
 
 #EXTINF:-1 group-title="FILMES" tvg-logo="",HOMEM ARANHA SEM VOLTA PRA CASA (2022)
 https://861531064.tapecontent.net/radosgw/pLdKKRAqgasX44/myrftBzt0YSJEctsMZ7MnYSbR06S5Ps5-6blVOAmcxsZ4BX4PiSZey8WPrcE1bPoUo0zqmpgSCZ4Ohsx_Jk0HoPD2OCfyOHTdD_dwFgBtWQva1LSy4fFYaFzifzIOlJXEZBZqh4uAFhYlQPAh2u3eUMCCJdWdpswMpq2Le6YddoTA4DPXfMZGk-kMsHCp0K1lrtAQpedMXQYEBMtqbxlCP0a12D18wZuKv1686mvV5yCOr9HGgSHcImeCYSg3PuCLEHmkfBWqhXyu3NCi48iE8Z_WGHJF5gXWTsrlTDo4bGe8E1fLaf1mnS7rSM/5TygvSiq9bKAxUWK.mp4?stream=1
