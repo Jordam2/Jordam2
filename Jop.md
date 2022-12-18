@@ -84,8 +84,6 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/ali
 https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x8.mp4
 
 
-#EXTINF:-1 group-title="" tvg-logo="",
-
 
 FILMES
 
