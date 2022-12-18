@@ -227,6 +227,37 @@ http://redbaron.s3.us-central-1.wasabisys.com/m-d-e-s--e--a-n-i-m/387/5/40.mp4
 http://redbaron.s3.us-central-1.wasabisys.com/m-d-e-s--e--a-n-i-m/387/5/41.mp4
 
 
+
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 1
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x1.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 2
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x2.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 3
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x3.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 4
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x4.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 5
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x5.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 6
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x6.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 7
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x7.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 8
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x8.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 9
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x9.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 10
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x10.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 11
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x11.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 12
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x12.mp4
+#EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 13
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x13.mp4
+
+
+
+
                     (FILMES)
 
 
