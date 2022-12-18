@@ -139,10 +139,9 @@ https://861481692.tapecontent.net/radosgw/P8y3j2809DU0JXP/xc665lPpxkp7crGiSm1E7m
 #EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 2 EP 7
 https://861520519.tapecontent.net/radosgw/P3Oj7AgapmU06aJ/nMYurnajqHrZ97tUCdgHo0XH3XXYxZebkNWTOGxyLxFqJJKl-4DDr5QlqelAvmQPeV2_LVw4geN_wbdUiaRXCrAQzRgqiWvxCJhnHGnDha9dIrNtYu9rSCU1JzLxSttPgoRysgypkXt8N_RumEfToFZzBGeFECGtW-H_tPtlKNvHZkZ2eL8BkD7dXIkzNeMGfZcYLtlJNzBhwQH3LhSeptsgzMIJKlaT1QOhDroIGo2vzA5PCyd0MePi_CEw77_UcsQWEvrL-Q3ZIaAiiYIhTIiyFlHvexeXIIqjgLz1zc2MX-46iTC1AZ6go2k/OZMvUO5yfNbZkffr.mp4?stream=1
 #EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 2 EP 8
-https://861520049.tapecontent.net/radosgw/1zvyPBeoZBIeoWr/2wqgUz7hN7UnyQYARXh3bCnYLzoLjDdBSLHofCImUTg-gITwj57_srCeuoG7AKGpL1c1I4cx2fygr-d3GOLwJkgp0pIwdWLzm6UbLzU8bKZ2fA8Kn9yEqBJ7m33fzOKnWyqGILQ_pvMSmNWyuYVRMVpJ-XBy7yHX9jIdIJk6YeRtxr5OQO47AzaC-kf0LZxv3f9lEppDD5OjcE9upMDiLGiaDaZL3CFUXvCknR1lEM8q592E1AXfAWZfLR9elbQpklvm_wvVay5srmAPpGNrwBY2W0h6QrC5glqubI-WcRhFBSP-G_D7TvS3Ea4/FlZrvM2ABAbVECoW.mp4?stream=1
+https://861520049.tapecontent.net/radosgw/1zvyPBeoZBIeoWr/pgLXIWBG7hWaRqB_QIUPU-_wVMXws5_uZJWE3gHT41XEa8_57kekyVzmW2VEJMegodQ_PWChoi6AvwcTOMFOuUhe71vhBIRgmcuSXEcWFYnjBb9WuqNu2-c8nj-PUkWCyxdvGa7yjTUholHXDfUom-zT4nmcJDSTTvdh1BQKrMKjMCqyfUm_TNISUhPz9qJ81P1btP3fY-Os1qGTsg6Xk8GzUuEHBAxCop7JxJX6FxCe3Jl-azWWHAJ-FQmXJOe8cYiuukAJC_JJGZ3i5nyIviRojNvb0z-LNyxRlubFPnMT4kFu6uo1Spyj7vw/FlZrvM2ABAbVECoW.mp4?stream=1
 
-
-
+#EXTINF:-1 group-title="" tvg-logo="",
 
 
                     (FILMES)
