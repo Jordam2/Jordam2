@@ -128,3 +128,17 @@ https://861531064.tapecontent.net/radosgw/pLdKKRAqgasX44/myrftBzt0YSJEctsMZ7MnYS
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
 
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+
+TV AO VIVO
+
+
+#EXTINF:-1 group-title="TV AO VIVO" tvg-logo="",CARTOON NETWORK 
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 group-title="TV AO VIVO" tvg-logo="",CAMERA ESCONDIDA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+
+#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
