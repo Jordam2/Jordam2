@@ -145,7 +145,7 @@ https://861520049.tapecontent.net/radosgw/1zvyPBeoZBIeoWr/2wqgUz7hN7UnyQYARXh3bC
 
 
 
-FILMES
+                    (FILMES)
 
 
 #EXTINF:-1 group-title="FILMES" tvg-logo="",HOMEM ARANHA SEM VOLTA PRA CASA (2022)
@@ -170,7 +170,7 @@ https://video.wixstatic.com/video/e16db6_2589391d303f4902a3021fcaa5887e24/720p/m
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
 
 
-TV AO VIVO
+                  (TV AO VIVO)
 
 
 #EXTINF:-1 group-title="TV AO VIVO" tvg-logo="",CARTOON NETWORK 
