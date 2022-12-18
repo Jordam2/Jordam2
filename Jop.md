@@ -255,6 +255,102 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x12
 #EXTINF:-1 group-title="ICARLY (2022)" tvg-logo="",TP 1 EP 13
 https://croatinha1.s3.us-central-1.wasabisys.com/series18/iCarly/icarly.DUB.1x13.mp4
 
+
+
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e01-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 2
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e02-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 3
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e03-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 4
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e04-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 5
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e05-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 6
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e06-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 7
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e07-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 8
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e08-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 9
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e09-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 10
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e10-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 11
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e11-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 12
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e12-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 13
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e13-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 14
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e14-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 15
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e15-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 16
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e16-dub-480p.mp4
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 17
+https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e17-dub-480p.mp4
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+#EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 1
+
+
+
 #EXTINF:-1 group-title="" tvg-logo="",
 
 
