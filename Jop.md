@@ -109,7 +109,7 @@ FILMES
 
 
 #EXTINF:-1 group-title="FILMES" tvg-logo="",HOMEM ARANHA SEM VOLTA PRA CASA (2022)
-https://861531064.tapecontent.net/radosgw/pLdKKRAqgasX44/myrftBzt0YSJEctsMZ7MnYSbR06S5Ps5-6blVOAmcxsZ4BX4PiSZey8WPrcE1bPoUo0zqmpgSCZ4Ohsx_Jk0HoPD2OCfyOHTdD_dwFgBtWQva1LSy4fFYaFzifzIOlJXEZBZqh4uAFhYlQPAh2u3eUMCCJdWdpswMpq2Le6YddoTA4DPXfMZGk-kMsHCp0K1lrtAQpedMXQYEBMtqbxlCP0a12D18wZuKv1686mvV5yCOr9HGgSHcImeCYSg3PuCLEHmkfBWqhXyu3NCi48iE8Z_WGHJF5gXWTsrlTDo4bGe8E1fLaf1mnS7rSM/5TygvSiq9bKAxUWK.mp4?stream=1
+https://video.wixstatic.com/video/e16db6_2589391d303f4902a3021fcaa5887e24/720p/mp4/file.mp4
 
 #EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 20
 
@@ -137,8 +137,8 @@ TV AO VIVO
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 #EXTINF:-1 group-title="TV AO VIVO" tvg-logo="",CAMERA ESCONDIDA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
-
+#EXTINF:-1 group-title="TV AO VIVO" tvg-logo="",COMEDY CENTRAL
+http://cdn2.connectbr.com.br/comedy/index.m3u8
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
 
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
