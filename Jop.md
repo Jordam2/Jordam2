@@ -80,11 +80,11 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/ali
 https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x6.mp4
 #EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 7
 https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x7.mp4
-#EXTINF:-1 group-title="ALICE IN BORDERLAND" tvg-logo="",TP 1 EP 8
+#EXTINF:-1 group-title="ALICE IN BORDELAND" tvg-logo="",TP 1 EP 8
 https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x8.mp4
 
 
-#EXTINF:-1 group-title="" tvg-logo="",TP 
+#EXTINF:-1 group-title="" tvg-logo="",
 
 
 FILMES
