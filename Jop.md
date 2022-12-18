@@ -84,6 +84,7 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/ali
 https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x8.mp4
 
 
+
 #EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 1
 https://908344487.tapecontent.net/radosgw/jgpwpxzRbxIzPd8/iF8EXQeHcRkUDjq-AtuCs_As3NO71xpz-lMQ4d4xoVI7siqqEVNwpSTTvQUoo3T2qeJ2g_ditPQZajPzZZtHUmOwDhaVf1FFhuyXZy1VVYD3cO9KWEBiCUHwgdStie6IyCwiwflW1uOPwHzqNfLlyc0JxW19gLoUJG_qC5N6HBP0Nxo7avVjUqIEedkfd1S-7vNc9ozt99a9zVIh5Y-EWRf3d_RxcdE0MkF_O_la0Y2N-bffnozSaHKYa2bO80ILNj3trJqvPJKBcpqU5geh6LfNT0kR9bqBTGriAoLKPDj--GXBwjT1_DsXFis/HqbOtb5HKrH2ytRl.mp4?stream=1
 #EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 2
@@ -103,6 +104,29 @@ https://908344487.tapecontent.net/radosgw/jgpwpxzRbxIzPd8/iF8EXQeHcRkUDjq-AtuCs_
 #EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 9
 
 #EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 10
+
+
+
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 1
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x1.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 2
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x2.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 3
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x4.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 4
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x4.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 5
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x5.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 6
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x6.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 7
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x7.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 8
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x8.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 9
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x9.mp4
+#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 10
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x10.mp4
 
 
 FILMES
