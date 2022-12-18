@@ -112,7 +112,7 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x1.
 #EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 2
 https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x2.mp4
 #EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 3
-https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x4.mp4
+https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x3.mp4
 #EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 4
 https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x4.mp4
 #EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 5
@@ -123,10 +123,10 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x6.
 https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x7.mp4
 #EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 8
 https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x8.mp4
-#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 9
-https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x9.mp4
-#EXTINF:-1 group-title="CHUCKY A SERIE" tvg-logo="",TP 1 EP 10
-https://croatinha1.s3.us-central-1.wasabisys.com/series18/chucky/chucky.DUB.1x10.mp4
+wasabisys.com/series18/chucky/chucky.DUB.1x10.mp4
+
+
+
 
 
 FILMES
