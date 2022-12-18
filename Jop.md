@@ -84,6 +84,26 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/ali
 https://croatinha1.s3.us-central-1.wasabisys.com/series19/aliceinborderlands/aliceinborderlands1x8.mp4
 
 
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 1
+https://908344487.tapecontent.net/radosgw/jgpwpxzRbxIzPd8/iF8EXQeHcRkUDjq-AtuCs_As3NO71xpz-lMQ4d4xoVI7siqqEVNwpSTTvQUoo3T2qeJ2g_ditPQZajPzZZtHUmOwDhaVf1FFhuyXZy1VVYD3cO9KWEBiCUHwgdStie6IyCwiwflW1uOPwHzqNfLlyc0JxW19gLoUJG_qC5N6HBP0Nxo7avVjUqIEedkfd1S-7vNc9ozt99a9zVIh5Y-EWRf3d_RxcdE0MkF_O_la0Y2N-bffnozSaHKYa2bO80ILNj3trJqvPJKBcpqU5geh6LfNT0kR9bqBTGriAoLKPDj--GXBwjT1_DsXFis/HqbOtb5HKrH2ytRl.mp4?stream=1
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 2
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 3
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 4
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 5
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 6
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 7
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 8
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 9
+
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 10
+
 
 FILMES
 
@@ -91,7 +111,7 @@ FILMES
 #EXTINF:-1 group-title="FILMES" tvg-logo="",HOMEM ARANHA SEM VOLTA PRA CASA (2022)
 https://861531064.tapecontent.net/radosgw/pLdKKRAqgasX44/myrftBzt0YSJEctsMZ7MnYSbR06S5Ps5-6blVOAmcxsZ4BX4PiSZey8WPrcE1bPoUo0zqmpgSCZ4Ohsx_Jk0HoPD2OCfyOHTdD_dwFgBtWQva1LSy4fFYaFzifzIOlJXEZBZqh4uAFhYlQPAh2u3eUMCCJdWdpswMpq2Le6YddoTA4DPXfMZGk-kMsHCp0K1lrtAQpedMXQYEBMtqbxlCP0a12D18wZuKv1686mvV5yCOr9HGgSHcImeCYSg3PuCLEHmkfBWqhXyu3NCi48iE8Z_WGHJF5gXWTsrlTDo4bGe8E1fLaf1mnS7rSM/5TygvSiq9bKAxUWK.mp4?stream=1
 
-#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
+#EXTINF:-1 group-title="A CAMINHO DO CEU" tvg-logo="",TP 1 EP 20
 
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 1 EP 20
 
