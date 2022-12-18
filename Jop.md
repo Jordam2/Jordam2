@@ -269,7 +269,7 @@ https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e04
 #EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 5
 https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e05-dub-480p.mp4
 #EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 6
-https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e06-dub-480p.mp4
+https://860133936.tapecontent.net/radosgw/yo6Dv3w060I11jA/3Y7G_1dF4_sdhHgaqWwP_dl_jm2RgkG0yKsFbmYQg-h_bYkBLRmyXMF5PLs-fhFBC8ADf3nQ_-KL4xaQJQsga0wx7g9Q-0bfQlA746zedm3sIULZ12H9i1WdvugGj_nMashIaO-XjofU2YAdNJOYAOjU_b0W4Jg0Nx0TlAKLZRuDU4HIMdNbW3jVuqx8hbVDEqZU2nmrEh5dsByrtlX3gPABrVqeqngc5h1KZouq_HL2_BSfUE3hSwR-AigfqmUSfD_JmkusP9rCG-tn_7zQDMs5pMEkKAQDM9ZA-z2bUc9j3sYMpY-a9LzK8sk/JRrfvnfJ9ocGXQKT?stream=1
 #EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 7
 https://croatinha1.s3.us-central-1.wasabisys.com/series3/thebigbangtheory/s01e07-dub-480p.mp4
 #EXTINF:-1 group-title="BIG BANG THEORY" tvg-logo="",TP 1 EP 8
