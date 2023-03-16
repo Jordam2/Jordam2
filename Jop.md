@@ -1,11 +1,11 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 1
-https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.2x1.mp4
+#EXTINF:-1 group-title="FILMES" tvg-logo="",Os Simpson 
+https://terabox.com/file/5311b04b84d2adb1752a4e332580a5ca?fid=4401463691384-250528-354192556943698&rt=pr&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-Bp5N1G8oIVDQuXO9Ja5EEzEqcLY%3d&expires=8h&chkbd=0&chkv=0&dp-logid=575474617800043679&dp-callid=0&dstime=1678941178&r=351597547
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 2
-https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.2x2.mp4
+
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 3
-https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.2x3.mp4
+
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 4
 https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.2x4.mp4
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 5
