@@ -3,8 +3,8 @@
 #EXTINF:-1 group-title="SERIES" tvg-logo="",CHUCKY TP1EP1
 https://embed-cloudfront.wistia.com/deliveries/d33d727ce318a1b2f7b481acf7b1a216a3116313.m3u8
 
-#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 3
-
+#EXTINF:-1 group-title="SERIES" tvg-logo="",CHUCKY TP1EP2
+https://m3u9.top/hls4/RedeCanais/RedeCanais/RCServer15/ondemand/CHCKYT01EP02/_CHCKYT01EP02.m3u8?mu3zAQc9HC3GbwJq=8Io73rscPSXHAeQ52c8oBw&3U1G7qaTxrPbalZnEx=1680509079
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 4
 https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.2x4.mp4
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 5
