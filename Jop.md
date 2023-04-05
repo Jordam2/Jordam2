@@ -3,10 +3,10 @@
 #EXTINF:-1 group-title="SERIES" tvg-logo="",CHUCKY TP1EP1
 https://embed-cloudfront.wistia.com/deliveries/d33d727ce318a1b2f7b481acf7b1a216a3116313.m3u8
 
-#EXTINF:-1 group-title="SERIES" tvg-logo="",CHUCKY TP1EP2
-https://m3u9.top/hls4/RedeCanais/RedeCanais/RCServer15/ondemand/CHCKYT01EP02/_CHCKYT01EP02.m3u8?mu3zAQc9HC3GbwJq=8Io73rscPSXHAeQ52c8oBw&3U1G7qaTxrPbalZnEx=1680509079
-#EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 4
-https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.2x4.mp4
+#EXTINF:-1 group-title="SERIES" tvg-logo="",CHUCK TP1EP1
+https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/waRAnTz1ZwT01pQzb01B3V76ydav4blVW3rNQV5NK801fQuodjo301SQEeJegg1cxARco01h00fpZu57D2b01qYelQp01ZO1vQ9n018JR/rendition.m3u8?cdn=cloudflare&expires=1680712440&rid=maNV024zuMd00Rryar01uF2lWrwqPsXy00dJxRk7plgetlM&skid=default&signature=NjQyZGEyZjhfYmJhZmMyZmViYzEzOGNkOTJhMDUwNjQzYmQwMzYyMmJjOTM5Njk0ODlkNjBlOTA4ZTk3MzI4Mjc1NWI2ZDU1OA==&vsid=9mUNa4eg6teVP01hGRtpd8q2gyj1sFzgcFtXxfhxP7ZpcVmcj42zwQwzG2baXyfNkAmcntxIwyDY
+#EXTINF:-1 group-title="APENAS UM SHOW" tvg-logo="",TP0EP0
+https://manifest-gcp-us-east1-vop1.fastly.mux.com/P01YO3XTXFoP6bxYwQI59z8H4kzLvNg9IZcZXA01meBlHI8wu9kKPKz9voNoFfrHai8v7bgKFzNQowSMI3I6u5pPiZEriZq7BU/rendition.m3u8?cdn=fastly&expires=1680708720&rid=maNV024zuMd00Rryar01uF2lWrwqPsXy00dJxRk7plgetlM&skid=default&signature=NjQyZDk0NzBfZTA3MGZmY2JlYjQxNGZhZDY3NmIzYzliMzQ5Yzc4ODgyMjNhZjI3MDUxMmZjM2NhOTY0ZjZiYzlhZDZkNDRkMQ==&vsid=Zl018RqrnT6Rcq2bscbqUtRcwOt7dfO5pnDW6FylUFTdtqYlcHtbZdHk9pcCUezlsSFebiVIER9E
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 5
 https://croatinha1.s3.us-central-1.wasabisys.com/series13/911/911.2x5.mp4
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 6
