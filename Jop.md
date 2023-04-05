@@ -4,7 +4,7 @@
 https://embed-cloudfront.wistia.com/deliveries/d33d727ce318a1b2f7b481acf7b1a216a3116313.m3u8
 
 #EXTINF:-1 group-title="SERIES" tvg-logo="",CHUCK TP1EP1
-https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/waRAnTz1ZwT01pQzb01B3V76ydav4blVW3rNQV5NK801fQuodjo301SQEeJegg1cxARco01h00fpZu57D2b01qYelQp01ZO1vQ9n018JR/rendition.m3u8?cdn=cloudflare&expires=1680712440&rid=maNV024zuMd00Rryar01uF2lWrwqPsXy00dJxRk7plgetlM&skid=default&signature=NjQyZGEyZjhfYmJhZmMyZmViYzEzOGNkOTJhMDUwNjQzYmQwMzYyMmJjOTM5Njk0ODlkNjBlOTA4ZTk3MzI4Mjc1NWI2ZDU1OA==&vsid=9mUNa4eg6teVP01hGRtpd8q2gyj1sFzgcFtXxfhxP7ZpcVmcj42zwQwzG2baXyfNkAmcntxIwyDY
+https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/waRAnTz1ZwT01pQzb01B3V76ydav4blVW3rNQV5NK801fQuodjo301SQEeJegg1cxARco01h00fpZu57D2b01qYelQp01ZO1vQ9n018JR/rendition.m3u8?cdn=cloudflare&expires=1680779220&rid=maNV024zuMd00Rryar01uF2lWrwqPsXy00dJxRk7plgetlM&skid=default&signature=NjQyZWE3ZDRfMWVjNjZhMDdhYmJlNzU2YTdiYWZhNTVhYThmMTBiNDlhYTY1M2I0NjdmYzJhNDE2MzZmNWVjMTQ4YTQzOTBlZQ==&vsid=Hczr4s2fw00AyICEkjLyeOShu82m3vkXWjz6UYUQ2IXIeNUkfb2qnjQ01GnItgyFUVcN828MyTRnI
 #EXTINF:-1 group-title="APENAS UM SHOW" tvg-logo="",TP0EP0
 https://manifest-gcp-us-east1-vop1.fastly.mux.com/P01YO3XTXFoP6bxYwQI59z8H4kzLvNg9IZcZXA01meBlHI8wu9kKPKz9voNoFfrHai8v7bgKFzNQowSMI3I6u5pPiZEriZq7BU/rendition.m3u8?cdn=fastly&expires=1680708720&rid=maNV024zuMd00Rryar01uF2lWrwqPsXy00dJxRk7plgetlM&skid=default&signature=NjQyZDk0NzBfZTA3MGZmY2JlYjQxNGZhZDY3NmIzYzliMzQ5Yzc4ODgyMjNhZjI3MDUxMmZjM2NhOTY0ZjZiYzlhZDZkNDRkMQ==&vsid=Zl018RqrnT6Rcq2bscbqUtRcwOt7dfO5pnDW6FylUFTdtqYlcHtbZdHk9pcCUezlsSFebiVIER9E
 #EXTINF:-1 group-title="9-1-1" tvg-logo="",TP 2 EP 5
